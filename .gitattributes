@@ -1,3 +1,4 @@
-* linguist-vendored
-src/*.cpp linguist-vendored=false
-# src/*.cpp linguist-language=C++
+# * linguist-vendored
+# src/*.cpp linguist-vendored=false
+src/*.cpp linguist-language=C++
+src/*.h linguist-language=C++
